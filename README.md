@@ -19,24 +19,23 @@ Before running the application, make sure you have the following prerequisites i
 git clone https://github.com/Ranjith-K-21/YouTube-Data-Scraping-and-Analytics.git
 ```
 2. Install the required Python packages:
-bash
-Copy code
+```bash
 pip install -r requirements.txt
-Obtain an API key from the Google Cloud Console and replace "Your API Key" in the code with your actual API key.
+```
+3. Obtain an API key from the Google Cloud Console and replace **"Your API Key"** in the code with your actual API key.
 
-Set up a MySQL database and replace "username" and "password" in the code with your MySQL database credentials.
+4. Set up a MySQL database and replace **"username"** and **"password"** in the code with your MySQL database credentials.
 
-Usage
-Run the application:
+## Usage
+1. Run the application:
+```bash
+streamlit run YouTube_Data_Insights.py
+```
+2. Use the sidebar navigation to switch between the **"Data Scraping"** and **"Data Analytics"** sections.
 
-bash
-Copy code
-streamlit run app.py
-Use the sidebar navigation to switch between the "Data Scraping" and "Data Analytics" sections.
+3. Enter the required inputs and click on buttons to start scraping data or running queries.
 
-Enter the required inputs and click on buttons to start scraping data or running queries.
+4. View the results displayed on the Streamlit interface.
 
-View the results displayed on the Streamlit interface.
-
-Contributing
+## Contributing
 Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests.
