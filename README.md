@@ -15,10 +15,10 @@ Before running the application, make sure you have the following prerequisites i
   
 ## Setup
 1. Clone the repository to your local machine:
-`git clone https://github.com/your-username/your-repository.git
-
+```bash
+git clone https://github.com/your-username/your-repository.git
+```
 Install the required Python packages:
-
 bash
 Copy code
 pip install -r requirements.txt
