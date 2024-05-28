@@ -31,6 +31,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run YouTube_Data_Insights.py
 ```
+
 2. Use the sidebar navigation to switch between the **"Data Scraping"** and **"Data Analytics"** sections.
 
 3. Enter the required inputs and click on buttons to start scraping data or running queries.
