@@ -18,7 +18,7 @@ Before running the application, make sure you have the following prerequisites i
 ```bash
 git clone https://github.com/Ranjith-K-21/YouTube-Data-Scraping-and-Analytics.git
 ```
-Install the required Python packages:
+2. Install the required Python packages:
 bash
 Copy code
 pip install -r requirements.txt
