@@ -16,7 +16,7 @@ Before running the application, make sure you have the following prerequisites i
 ## Setup
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Ranjith-K-21/YouTube-Data-Scraping-and-Analytics.git
 ```
 Install the required Python packages:
 bash
