@@ -4,7 +4,6 @@ import pandas as pd
 import streamlit as st
 from sqlalchemy import create_engine,text
 import mysql.connector as sql
-import numpy as np
 from isodate import parse_duration 
 
 # API service info
