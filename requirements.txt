@@ -3,5 +3,4 @@ pandas
 streamlit
 sqlalchemy
 mysql-connector-python
-numpy
 isodate
